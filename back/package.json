@@ -1,0 +1,25 @@
+{
+  "name": "controle",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "controle",
+    "express",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Guilherme Coutinho",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "open": "^9.1.0"
+  }
+}
