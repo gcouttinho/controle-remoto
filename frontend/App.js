@@ -1,7 +1,7 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
-import Controll from "./screens/controll";
+import Controll from "./screens/control";
 
 const App = () => {
   const Stack = createStackNavigator();
