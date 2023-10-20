@@ -94,4 +94,4 @@ $ npm start
 <a href="https://github.com/gcouttinho">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/gcouttinho" width="100px;" alt=""/>
  <br />
- <sub><b>Guilherme Coutinho</b></sub></a>
+ <b>Guilherme Coutinho</b></a>
