@@ -40,7 +40,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas na s
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://npmpkg.com/)
 
-### Rodando o Back End (servidor)
+### 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
